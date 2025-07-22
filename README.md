@@ -14,6 +14,3 @@ An AI-powered assistant that intelligently reads, understands, and interacts wit
 - 💬 **Clean UI**: Built with Streamlit for an interactive experience.
 
 ---
-
-## 📁 Project Structure
-
